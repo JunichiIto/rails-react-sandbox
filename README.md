@@ -1,24 +1,7 @@
-# README
+# rails-react-sandbox
+Sample app for Rails 5.1 x React
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Thanks to: 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Rails 5\.1でreact環境を作ってみた \- Qiita](http://qiita.com/kikunantoka/items/54f1859496003b1b1aff)
+- [Introducing Webpacker – Statuscode – Medium](https://medium.com/statuscode/introducing-webpacker-7136d66cddfb#.zgrey3eeh)
